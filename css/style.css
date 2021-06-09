@@ -1,4 +1,4 @@
-* {
+html {
   margin: 0;
   padding: 0;
 }
@@ -31,13 +31,13 @@ body {
   width: 100%;
   background: transparent;
   border: none;
-  color: #d98192;
+  color: #62e783;
   font-size: 18px;
   text-align: right;
 }
 
 .account::placeholder {
-  color: #d98192;
+  color: #62e783;
 }
 
 .result {
@@ -81,7 +81,7 @@ body {
   height: 92px;
   padding: 39px;
   font-size: 22px;
-  background-color: #e62f89;
+  background-color: #5e2fce;
   outline: none;
   border: none;
   color: #fff;
@@ -92,7 +92,7 @@ body {
   color: #fff;
   font-size: 22px;
   background-image: none;
-  background-color: #9156e1;
+  background-color: #37da52;
 }
 
 .btn:hover, .btn-symbol:hover, .btn-total:hover {
